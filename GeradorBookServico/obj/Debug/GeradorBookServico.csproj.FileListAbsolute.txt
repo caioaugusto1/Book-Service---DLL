@@ -1,0 +1,39 @@
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe.config
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.pdb
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csprojResolveAssemblyReference.cache
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Form1.resources
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Properties.Resources.resources
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csproj.GenerateResource.Cache
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.exe
+C:\Users\caio.pereira\Documents\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.pdb
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe.config
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.exe
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.pdb
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.pdb
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csprojResolveAssemblyReference.cache
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Form1.resources
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Properties.Resources.resources
+C:\Users\luiz.rovaris\Documents\_Documentos\Verity\GeradorBookServico\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csproj.GenerateResource.Cache
+C:\P\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe.config
+C:\P\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.exe
+C:\P\GeradorBookServico\GeradorBookServico\bin\Debug\GeradorBookServico.pdb
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Form1.resources
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.Properties.Resources.resources
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csproj.GenerateResource.Cache
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.exe
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.pdb
+C:\P\GeradorBookServico\GeradorBookServico\obj\Debug\GeradorBookServico.csprojResolveAssemblyReference.cache
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\bin\Debug\GeradorBookServico.exe.config
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.exe
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.pdb
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\bin\Debug\GeradorBookServico.exe
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\bin\Debug\GeradorBookServico.pdb
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.csprojResolveAssemblyReference.cache
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.Form1.resources
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.Properties.Resources.resources
+C:\Users\caio.pereira\Documents\GeradorBookServico NEW\GeradorBookServico\obj\Debug\GeradorBookServico.csproj.GenerateResource.Cache
+C:\Users\caio.pereira\Documents\BookServico\bookservicos\GeradorBookServico\bin\Debug\GeradorBookServico.exe.config
+C:\Users\caio.pereira\Documents\BookServico\bookservicos\GeradorBookServico\obj\Debug\GeradorBookServico.exe
+C:\Users\caio.pereira\Documents\BookServico\bookservicos\GeradorBookServico\obj\Debug\GeradorBookServico.pdb
