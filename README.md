@@ -18,7 +18,7 @@ Requires Visual Studio - 2017 - to run
 ## Want to help?
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
-guidelines for [contributing][contributing] and then check out one of our issues in the caiio_augustto@hotmail.com (https://github.com/caioaugusto1/MarketInter.Core.git).
+guidelines for [contributing][contributing] and then check out one of our issues in the caiio_augustto@hotmail.com (https://github.com/caioaugusto1/Book-Service---DLL.git).
 
 License
 ----
